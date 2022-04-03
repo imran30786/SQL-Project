@@ -1,3 +1,4 @@
 # SQL-Project
-SQL Project using Python - Bank Management System
+Project Name - Bank Management System
+Technology - SQL and Python
 Tools - Pycharm and MySQL
